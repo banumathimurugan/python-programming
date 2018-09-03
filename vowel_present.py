@@ -1,5 +1,5 @@
-d=input("Enter the word:")
-if((a>='a' and d<='z' and d<='A' and d<='Z')):
+x=input("Enter the word:")
+if((x>='a' and x<='z' and x<='A' and x<='Z')):
   print("vowels")
  else:
   print("not vowels")
