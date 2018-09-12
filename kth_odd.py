@@ -1,3 +1,3 @@
-a=int(input("Enter the number:"))
-m=64+a
-print(chr(m))
+x=int(input("Enter the number:"))
+y=64+x
+print(chr(y))
